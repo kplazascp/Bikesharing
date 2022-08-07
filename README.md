@@ -6,6 +6,8 @@ We are performing an analysis on Citibike Data in NYC. The purpose of this analy
 
 ## Results
 
+[Link to Story] (https://public.tableau.com/app/profile/karla.plazas/viz/Citibike_16598813373780/Citibike?publish=yes)
+
 ### Checkout Times
 ![Checkout_Time](https://github.com/kplazascp/Bikesharing/blob/main/Resources/Checkout%20time.PNG)
 
